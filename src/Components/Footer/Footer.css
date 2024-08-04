@@ -96,7 +96,7 @@
         flex-direction: column;
     }
     .footer-email-input{
-        width: 100%;
+        width: 90%;
         margin-bottom: 20px;
     }
     .footer-email-input input{
